@@ -82,7 +82,7 @@ body {
 }
 
 #progressbar {
-	text-shadow: ;
+	text-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.7);
 	margin-bottom: 30px;
 	overflow: hidden;
 	counter-reset: step;
